@@ -6,6 +6,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+#https://www.youtube.com/watch?v=G2xOmEHTM2A
+#introduction for github-Rstudio cloud
+
 
 ## R Markdown
 
